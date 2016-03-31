@@ -548,5 +548,16 @@
                 "coordinates": [14.4527403, 50.0919999]
             }
         }
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vit Walek",
+                "url": "http://www.viwal.eu/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [16.616667, 49.2]
+            }
+        },        
     ]
 }
